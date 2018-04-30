@@ -1,7 +1,7 @@
-# CMPS12A
+# [CMPS12A](https://cmps012a-fall17-01.courses.soe.ucsc.edu)
 Introduction to Programming (Accelerated) at the University of California, Santa Cruz (Fall 17)
 
-[12A: Programming Assignments (5)](https://cmps012a-fall17-01.courses.soe.ucsc.edu)
+12A: Programming Assignments (5)
 
 ### Course Description:
 -------------------
