@@ -1,13 +1,10 @@
 # CMPS12A
 Introduction to Programming (Accelerated) at the University of California, Santa Cruz (Fall 17)
 
-12A: Programming Assignments (5)
+[12A: Programming Assignments (5)](https://cmps012a-fall17-01.courses.soe.ucsc.edu)
 
-Course Description:
+### Course Description:
 -------------------
 Accelerated introduction to programming. Students write medium-sized programs. Topics 
 include: functions; conditionals and loops; classes; event-driven programming and 
 graphic user interfaces (GUIs); recursion; and arrays.
-
-
-Class Website: (https://cmps012a-fall17-01.courses.soe.ucsc.edu)
